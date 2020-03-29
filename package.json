@@ -1,0 +1,15 @@
+{
+  "name": "find_bad_restaurants",
+  "version": "1.0.0",
+  "description": "Yelp is great - it will tell you which restaurants are trendy, affordable, delicious, etc etc. But, would you ever like to know which restaurants you wanna avoid at all costs? You know you would never go to that dirty restaurant with that girl you're on a date with.  This program will help you with that tremendously.",
+  "main": "index.js",
+  "dependencies": {
+    "yelp-fusion": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kotaro Yama",
+  "license": "ISC"
+}
